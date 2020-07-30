@@ -1,0 +1,45 @@
+body {
+				background-image: 
+				linear-gradient(#d2dade, #bac7cc);
+				font-family: Nunito;
+				font-weight: bold; 
+				margin: 0px; 
+				padding: 0px; 
+				}
+header {
+				font-family : Nunito; 
+				font-size : 24px; 
+				background-color : #494d5f;
+				padding: 15px; 
+				}
+input {
+				border: 1px solid transparent; 
+				height : 40px; 
+				border-radius: 5px; 
+				width: 80%;
+				padding : 10px; 
+				background-color: #494d5f;
+				margin: 15px; 
+				}
+.maintext {
+				margin : 15px; 
+				}
+button {
+				border-style: none; 
+				border-radius: 7px; 
+				padding : 10px;
+				background-color: #494d5f; 
+				margin: 15px; 
+				}
+#answer {
+				display: none; 
+				border: 1px solid transparent; 
+				height : auto; 
+				border-radius: 5px; 
+				width: 80%;
+				padding : 10px; 
+				background-color: #e5e9eb;
+				margin: 15px;
+				}
+		  
+	
